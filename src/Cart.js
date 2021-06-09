@@ -1,9 +1,9 @@
 // import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
-const About = () => {
+const Cart = () => {
     return (
-        <h2>About Page</h2>
+        <h2>Cart Page</h2>
     )
 }
 
-export default About;
+export default Cart

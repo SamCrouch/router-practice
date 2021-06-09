@@ -1,9 +1,9 @@
 // import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
-const Shop = () => {
+const Checkout = () => {
     return (
-        <h2>Shop Page</h2>
+        <h2>Checkout Page</h2>
     )
 }
 
-export default Shop
+export default Checkout;
